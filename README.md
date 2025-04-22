@@ -1,0 +1,2 @@
+# AlgoTrader
+ME TRADE STOCKS AHAHAHAH
