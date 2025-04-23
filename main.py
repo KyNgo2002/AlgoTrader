@@ -17,7 +17,7 @@ client = StockHistoricalDataClient(api_key = API_KEY, secret_key = SECRET_KEY)
 
 # Creating request parameter object
 requestParams = StockBarsRequest(
-    symbol_or_symbols = ["GOOG"],
+    symbol_or_symbols = ["AAPL"],
     timeframe = TimeFrame.Day,
     start = datetime(2022, 9, 1),
     end = datetime(2022, 10, 1)
